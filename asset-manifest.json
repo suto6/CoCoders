@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoCoders/static/css/main.b7861e0b.css",
+    "main.js": "/CoCoders/static/js/main.e18bd0f3.js",
+    "static/js/453.f611147f.chunk.js": "/CoCoders/static/js/453.f611147f.chunk.js",
+    "index.html": "/CoCoders/index.html",
+    "main.b7861e0b.css.map": "/CoCoders/static/css/main.b7861e0b.css.map",
+    "main.e18bd0f3.js.map": "/CoCoders/static/js/main.e18bd0f3.js.map",
+    "453.f611147f.chunk.js.map": "/CoCoders/static/js/453.f611147f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7861e0b.css",
+    "static/js/main.e18bd0f3.js"
+  ]
+}
